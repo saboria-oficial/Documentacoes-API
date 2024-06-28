@@ -1,4 +1,4 @@
-# Documentacoes-API
+# Documentações-API
 Documentações das APIs usadas no projeto Saboria
 
 - Paypal (Pagamento)
